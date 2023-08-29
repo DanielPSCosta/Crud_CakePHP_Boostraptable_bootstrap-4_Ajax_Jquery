@@ -1,0 +1,1174 @@
+2023-08-25 12:48:49 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-25 12:49:26 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-25 12:49:54 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-25 12:50:52 Error: [MissingViewException] View file "Estoque\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoque\\index.ctp',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoque\\index')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-25 12:52:19 Error: [MissingViewException] View file "Estoque\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoque\\index.ctp',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoque\\index')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-25 12:52:20 Error: [MissingViewException] View file "Estoque\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoque\\index.ctp',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoque\\index')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-25 12:52:27 Error: [MissingActionException] Action EstoqueController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoqueController',
+  'action' => 'index.php',
+)
+Request URL: /Estoque/Estoque/index.php
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-25 12:54:04 Error: [MissingActionException] Action EstoqueController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoqueController',
+  'action' => 'index.php',
+)
+Request URL: /Estoque/Estoque/index.php
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-25 12:56:09 Error: [MissingActionException] Action EstoqueController::index.php() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoqueController',
+  'action' => 'index.php',
+)
+Request URL: /Estoque/Estoque/index.php
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-25 12:58:20 Error: [MissingActionException] Action EstoqueController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoqueController',
+  'action' => 'index',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-25 12:58:34 Error: [MissingViewException] View file "Estoque\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoque\\index.ctp',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoque\\index')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-25 13:17:53 Error: [MissingActionException] Action EstoqueController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoqueController',
+  'action' => 'index',
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoqueController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-25 13:19:48 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-25 13:19:53 Error: [MissingTableException] Table estoques for model Estoque was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'estoques',
+  'class' => 'Estoque',
+  'ds' => 'default',
+)
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3686): Model->setSource('estoques')
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3053): Model->getDataSource()
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3025): Model->_readDataSource('all', Array)
+#3 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(9): Model->find('all')
+#4 [internal function]: EstoquesController->index()
+#5 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#8 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2023-08-25 13:22:41 Error: [MissingTableException] Table estoques for model Estoque was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'estoques',
+  'class' => 'Estoque',
+  'ds' => 'default',
+)
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3686): Model->setSource('estoques')
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3053): Model->getDataSource()
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3025): Model->_readDataSource('all', Array)
+#3 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(9): Model->find('all')
+#4 [internal function]: EstoquesController->index()
+#5 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#8 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2023-08-25 13:23:03 Error: [MissingTableException] Table estoques for model Estoque was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'estoques',
+  'class' => 'Estoque',
+  'ds' => 'default',
+)
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3686): Model->setSource('estoques')
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3053): Model->getDataSource()
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3025): Model->_readDataSource('all', Array)
+#3 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(9): Model->find('all')
+#4 [internal function]: EstoquesController->index()
+#5 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#8 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2023-08-25 17:43:32 Error: [ParseError] syntax error, unexpected token ")"
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(933): View->_evaluate('C:\\laragon\\www\\...', Array)
+#1 C:\laragon\www\Estoque\lib\Cake\View\View.php(473): View->_render('C:\\laragon\\www\\...')
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-25 17:43:44 Error: [ParseError] Unmatched ')'
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(933): View->_evaluate('C:\\laragon\\www\\...', Array)
+#1 C:\laragon\www\Estoque\lib\Cake\View\View.php(473): View->_render('C:\\laragon\\www\\...')
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-25 17:46:10 Error: [ParseError] Unclosed '{' on line 8 does not match ')'
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(933): View->_evaluate('C:\\laragon\\www\\...', Array)
+#1 C:\laragon\www\Estoque\lib\Cake\View\View.php(473): View->_render('C:\\laragon\\www\\...')
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-28 16:33:05 Error: [ParseError] syntax error, unexpected token "exit"
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 [internal function]: App::load('EstoquesControl...')
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(266): class_exists('EstoquesControl...')
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:35:14 Error: [Error] Call to a member function saveAll() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:38:27 Error: [Error] Call to a member function saveAll() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:39:06 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:41:15 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:41:46 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:42:30 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:44:05 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 [internal function]: EstoquesController->CadastrarProd()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:44:33 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:44:46 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:53:29 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 16:57:14 Error: [MissingActionException] Action EstoquesController::Estoques() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'Estoques',
+)
+Request URL: /Estoque/estoques/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-28 17:01:54 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(35): Model->save(Array)
+#6 [internal function]: EstoquesController->CadastrarProd()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:04:40 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:05:11 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:08:23 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:08:50 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:10:36 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(37): Model->save(Array)
+#6 [internal function]: EstoquesController->CadastrarProd()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:11:06 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(37): Model->save(Array)
+#6 [internal function]: EstoquesController->CadastrarProd()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:11:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(37): Model->save(Array)
+#6 [internal function]: EstoquesController->CadastrarProd()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:21:14 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:22:21 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:38:18 Error: [MissingViewException] View file "Estoques\cadastrar_prod.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar_prod.ctp',
+)
+Request URL: /Estoque/Estoques/CadastrarProd
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:40:31 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:48:43 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 17:48:52 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(37): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:50:44 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(37): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 17:59:24 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 18:36:26 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 18:43:50 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 18:45:51 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 18:47:54 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 18:58:09 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:02:39 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 19:03:25 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 19:08:14 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(27): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 19:20:03 Error: Fatal Error (1): Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in [C:\laragon\www\Estoque\lib\Cake\Model\Datasource\Database\Mysql.php, line 285]
+2023-08-28 19:20:03 Error: [FatalErrorException] Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\laragon\\www\\...', 285)
+#1 C:\laragon\www\Estoque\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\laragon\\www\\...', 285, Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2023-08-28 19:20:05 Error: Fatal Error (1): Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes) in [C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php, line 2890]
+2023-08-28 19:20:05 Error: [FatalErrorException] Allowed memory size of 536870912 bytes exhausted (tried to allocate 262144 bytes)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Allowed memory ...', 'C:\\laragon\\www\\...', 2890)
+#1 C:\laragon\www\Estoque\lib\Cake\Core\App.php(970): ErrorHandler::handleError(1, 'Allowed memory ...', 'C:\\laragon\\www\\...', 2890, Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2023-08-28 19:35:25 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:35:43 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:39:31 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:39:39 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:39:44 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(26): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 19:41:05 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:41:20 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:41:23 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(25): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-28 19:42:22 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:52:48 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 19:52:58 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 20:05:51 Error: [Error] Call to a member function find() on null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: EstoquesController->Cadastrar()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 20:05:55 Error: [Error] Call to a member function find() on null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: EstoquesController->Cadastrar()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-28 20:08:11 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-28 20:08:14 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 10:54:04 Error: [MissingViewException] View file "Estoques\cadastrar.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\cadastrar.ctp',
+)
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\cadast...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 10:58:13 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_produto' cannot be null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(25): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-29 11:12:21 Error: [MissingActionException] Action EstoquesController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'webroot',
+)
+Request URL: /Estoque/Estoques/webroot
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 11:12:25 Error: [MissingActionException] Action EstoquesController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'webroot',
+)
+Request URL: /Estoque/Estoques/webroot/img
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 11:12:51 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/webroot
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 11:13:04 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/webroot/img/1.jpg
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 11:20:04 Error: [ParseError] Unclosed '{' on line 5
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: App::load('EstoquesControl...')
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(266): class_exists('EstoquesControl...')
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:20:43 Error: [ParseError] Unclosed '{' on line 5
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: App::load('EstoquesControl...')
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(266): class_exists('EstoquesControl...')
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:20:48 Error: [ParseError] Unclosed '{' on line 5
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 [internal function]: App::load('EstoquesControl...')
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(266): class_exists('EstoquesControl...')
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:20:52 Error: [ParseError] Unclosed '{' on line 5
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 [internal function]: App::load('EstoquesControl...')
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(266): class_exists('EstoquesControl...')
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(235): Dispatcher->_loadController(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(158): Dispatcher->_getController(Object(CakeRequest), Object(CakeResponse))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:22:19 Error: [Error] Class "Time" not found
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: EstoquesController->Cadastrar()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:23:00 Error: [Error] Class "Time" not found
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: EstoquesController->Cadastrar()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:29:16 Error: [Error] Call to a member function save() on null
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 [internal function]: EstoquesController->Cadastrar()
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 11:29:28 Error: [PDOException] SQLSTATE[HY000]: General error: 1364 Field 'validade' doesn't have a default value
+Request URL: /Estoque/Estoques/Cadastrar
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(502): PDOStatement->execute(Array)
+#1 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(468): DboSource->_execute('INSERT INTO `Db...', Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(1132): DboSource->execute('INSERT INTO `Db...')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1942): DboSource->create(Object(Estoque), Array, Array)
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1760): Model->_doSave(Array, Array)
+#5 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(28): Model->save(Array)
+#6 [internal function]: EstoquesController->Cadastrar()
+#7 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#8 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#10 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2023-08-29 17:51:50 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 17:52:06 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 17:53:53 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 17:54:05 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 18:00:20 Error: [TypeError] json_encode(): Argument #2 ($flags) must be of type int, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(14): json_encode('estoques', Array)
+#1 [internal function]: EstoquesController->tabela()
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-29 18:00:31 Error: [TypeError] json_decode(): Argument #2 ($associative) must be of type ?bool, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(14): json_decode('estoques', Array)
+#1 [internal function]: EstoquesController->tabela()
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-29 18:01:13 Error: [TypeError] strlen(): Argument #1 ($str) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Network\CakeResponse.php(432): CakeResponse->_setContentLength()
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(174): CakeResponse->send()
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 18:02:17 Error: [TypeError] strlen(): Argument #1 ($str) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Network\CakeResponse.php(432): CakeResponse->_setContentLength()
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(174): CakeResponse->send()
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 18:04:09 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 18:06:13 Error: [TypeError] strlen(): Argument #1 ($str) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Network\CakeResponse.php(432): CakeResponse->_setContentLength()
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(174): CakeResponse->send()
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 18:08:58 Error: [TypeError] json_decode(): Argument #1 ($json) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(14): json_decode(Array)
+#1 [internal function]: EstoquesController->tabela()
+#2 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#5 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2023-08-29 18:09:36 Error: [TypeError] strlen(): Argument #1 ($str) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Network\CakeResponse.php(432): CakeResponse->_setContentLength()
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(174): CakeResponse->send()
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 18:09:46 Error: [TypeError] strlen(): Argument #1 ($str) must be of type string, array given
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Network\CakeResponse.php(432): CakeResponse->_setContentLength()
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(174): CakeResponse->send()
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 18:22:08 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 18:26:21 Error: [MissingViewException] View file "Estoques\tabela.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Estoques\\tabela.ctp',
+)
+Request URL: /Estoque/Estoques/tabela
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Estoques\\tabela')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render(NULL, NULL)
+#2 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#4 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2023-08-29 19:33:13 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [1049] Unknown database \'estoques\'',
+  'enabled' => true,
+)
+Request URL: /Estoque/Estoques
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Model\Datasource\DboSource.php(278): Mysql->connect()
+#1 C:\laragon\www\Estoque\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3659): ConnectionManager::getDataSource('default')
+#3 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(1162): Model->setDataSource('default')
+#4 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3686): Model->setSource('estoques')
+#5 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3053): Model->getDataSource()
+#6 C:\laragon\www\Estoque\lib\Cake\Model\Model.php(3025): Model->_readDataSource('all', Array)
+#7 C:\laragon\www\Estoque\app\Controller\EstoquesController.php(9): Model->find('all')
+#8 [internal function]: EstoquesController->index()
+#9 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(EstoquesController), Array)
+#10 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#12 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
