@@ -1172,3 +1172,478 @@ Stack Trace:
 #11 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
 #12 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #13 {main}
+2023-08-29 19:59:23 Error: [MissingViewException] View file "Pages\estoques.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\estoques.ctp',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Pages\\estoques')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render('estoques', NULL)
+#2 C:\laragon\www\Estoque\app\Controller\PagesController.php(72): Controller->render('estoques')
+#3 [internal function]: PagesController->display('estoques')
+#4 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2023-08-29 19:59:27 Error: [MissingViewException] View file "Pages\estoques.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\estoques.ctp',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Pages\\estoques')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render('estoques', NULL)
+#2 C:\laragon\www\Estoque\app\Controller\PagesController.php(72): Controller->render('estoques')
+#3 [internal function]: PagesController->display('estoques')
+#4 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2023-08-29 19:59:32 Error: [MissingViewException] View file "Pages\estoque.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\estoque.ctp',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Pages\\estoque')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render('estoque', NULL)
+#2 C:\laragon\www\Estoque\app\Controller\PagesController.php(72): Controller->render('estoque')
+#3 [internal function]: PagesController->display('estoque')
+#4 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2023-08-29 19:59:49 Error: [MissingActionException] Action PagesController::estoque() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'estoque',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:00:12 Error: [MissingActionException] Action PagesController::estoque() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'estoque',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:00:49 Error: [MissingViewException] View file "Pages\Estoques\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\Estoques\\index.ctp',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Pages\\Estoques\\...')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render('Estoques/index', NULL)
+#2 C:\laragon\www\Estoque\app\Controller\PagesController.php(72): Controller->render('Estoques/index')
+#3 [internal function]: PagesController->display('Estoques/index')
+#4 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2023-08-29 20:00:55 Error: [MissingActionException] Action PagesController::Estoques/index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'Estoques/index',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:01:08 Error: [MissingActionException] Action PagesController::Estoques/index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'Estoques/index',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:01:25 Error: [MissingActionException] Action PagesController::Estoques/index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'Estoques/index',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:01:26 Error: [MissingActionException] Action PagesController::Estoques/index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'Estoques/index',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:02 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:07 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:12 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:22 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:34 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:02:41 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:04:28 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:04:36 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:04:49 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:05:29 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:05:42 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:06:06 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:06:16 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:06:40 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:07:10 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:10:02 Error: [MissingControllerException] Controller class Estoques/indexController could not be found.
+Exception Attributes: array (
+  'class' => 'Estoques/indexController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:10:14 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:10:20 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:10:36 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:10:43 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:13:53 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:15:04 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:15:10 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:16:09 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:16:17 Error: [MissingViewException] View file "Pages\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\index.ctp',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\View\View.php(470): View->_getViewFileName('Pages\\index')
+#1 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(968): View->render('index', NULL)
+#2 C:\laragon\www\Estoque\app\Controller\PagesController.php(72): Controller->render('index')
+#3 [internal function]: PagesController->display('index')
+#4 C:\laragon\www\Estoque\lib\Cake\Controller\Controller.php(499): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2023-08-29 20:18:16 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:18:22 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:18:29 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:18:34 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:19:05 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:19:12 Error: [MissingControllerException] Controller class EstoqueController could not be found.
+Exception Attributes: array (
+  'class' => 'EstoqueController',
+  'plugin' => NULL,
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2023-08-29 20:20:16 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2023-08-29 20:20:21 Error: [MissingActionException] Action EstoquesController::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'EstoquesController',
+  'action' => 'display',
+)
+Request URL: /Estoque/
+Stack Trace:
+#0 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\laragon\www\Estoque\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(EstoquesController), Object(CakeRequest))
+#2 C:\laragon\www\Estoque\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
